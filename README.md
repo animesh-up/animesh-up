@@ -23,7 +23,7 @@
 + 🎵 Music is medicine for me
 + 🤓 Always learning and experimenting
 + 🤝 Leadership practice
-+ 
++ 🧑‍💻 Loves to code with an intake of Caffeine
 
 
 
