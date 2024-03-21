@@ -5,7 +5,7 @@
   <p>I'm Animesh Upadhyay - I'm a software Developer, designer and undergraduate student at Chandigarh University. I'm always eager to learn new technologies and skills to improve   my craft. I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time. Currently, I am looking for new career opportunities.
 </p>
 <p align="center">
-  <a href="animesh-up.github.io/Portfolio/">
+  <a href="https://animesh-up.github.io/Portfolio//">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/animesh-upadhyay-74a32a1b5/">
